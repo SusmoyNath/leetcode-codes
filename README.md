@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0010-regular-expression-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
