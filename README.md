@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0027-remove-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
