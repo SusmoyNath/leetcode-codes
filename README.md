@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0094-binary-tree-inorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 ## String Matching
 |  |
 | ------- |
@@ -254,4 +255,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0181-employees-earning-more-than-their-managers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SusmoyNath/leetcode-codes/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
