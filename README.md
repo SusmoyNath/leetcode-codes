@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/SusmoyNath/leetcode-codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SusmoyNath/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Binary Search
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
