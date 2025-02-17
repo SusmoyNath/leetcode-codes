@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 ## Sliding Window
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
