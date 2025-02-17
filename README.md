@@ -1,22 +1,22 @@
 ![logo](https://github.com/SusmoyNath/SusmoyNath/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Susmoy Nath</h1>
+<h1 align="center">Hi ð, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h2 align="center">🌱 I like to keep my repositories private</h2>
+<h2 align="center">ð± I like to keep my repositories private</h2>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently working on **Deep Learning & Brain Computer Interface (BCI) projects**
+- ð­ Iâm currently working on **Deep Learning & Brain Computer Interface (BCI) projects**
 
-- 📝 I regularly write articles on <a href="https://twitter.com/susmoynath">**Twitter**</a>
+- ð I regularly write articles on <a href="https://twitter.com/susmoynath">**Twitter**</a>
 
-- 📫 How to reach me <a href=mailto:contact@susmoynath.dev>**contact@susmoynath.dev**</a>
+- ð« How to reach me <a href=mailto:contact@susmoynath.dev>**contact@susmoynath.dev**</a>
 
-- 🕸️ Visit my <a href="https://susmoynath.com">**website**</a>
+- ð¸ï¸ Visit my <a href="https://susmoynath.com">**website**</a>
 
-- 🌐 Visit my <a href="https://susmoynath.helloworldlab.org">**company portfolio**</a>
+- ð Visit my <a href="https://susmoynath.helloworldlab.org">**company portfolio**</a>
 
-- 📄 Know about my experiences from <a href="https://cv.susmoynath.dev">**my resume**</a>
+- ð Know about my experiences from <a href="https://cv.susmoynath.dev">**my resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 ## Sliding Window
 |  |
