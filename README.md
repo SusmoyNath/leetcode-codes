@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SusmoyNath/leetcode-codes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
