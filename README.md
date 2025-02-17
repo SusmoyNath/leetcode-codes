@@ -1,22 +1,10 @@
 ![logo](https://github.com/SusmoyNath/SusmoyNath/blob/main/Banner.png)
 
-<h1 align="center">Hi ð, I'm Susmoy Nath</h1>
+<h1 align="center">Hi, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h2 align="center">ð± I like to keep my repositories private</h2>
+<h2 align="center"> I like to keep my repositories private</h2>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-- ð­ Iâm currently working on **Deep Learning & Brain Computer Interface (BCI) projects**
-
-- ð I regularly write articles on <a href="https://twitter.com/susmoynath">**Twitter**</a>
-
-- ð« How to reach me <a href=mailto:contact@susmoynath.dev>**contact@susmoynath.dev**</a>
-
-- ð¸ï¸ Visit my <a href="https://susmoynath.com">**website**</a>
-
-- ð Visit my <a href="https://susmoynath.helloworldlab.org">**company portfolio**</a>
-
-- ð Know about my experiences from <a href="https://cv.susmoynath.dev">**my resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +12,8 @@
 <a href="https://linkedin.com/in/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmoynath" height="30" width="40" /></a>
 <a href="https://instagram.com/susmoy.nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susmoy.nath" height="30" width="40" /></a>
 </p>
+
+
 
 
 
