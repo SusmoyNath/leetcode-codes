@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susmoynath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmoynath" height="30" width="40" /></a>
-<a href="https://instagram.com/susmoy.nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susmoy.nath" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="susmoynath" height="30" width="40" /></a>
 </p>
 
 <h1></h1>
