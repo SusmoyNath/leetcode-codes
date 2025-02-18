@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SusmoyNath/leetcode-codes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
