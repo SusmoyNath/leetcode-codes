@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SusmoyNath/leetcode-codes/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
