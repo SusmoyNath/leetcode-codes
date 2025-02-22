@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-
-![](https://leetcard.jacoblin.cool/susmoynath?border=0&radius=10)
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611m1w5uq5iohf9fh3eq67lm90fy10w2gfca378qmll&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
@@ -11,6 +9,7 @@
 <a href="https://www.leetcode.com/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="susmoynath" height="30" width="40" /></a>
 </p>
 
+![](https://leetcard.jacoblin.cool/susmoynath?border=0&radius=10)
 <h1></h1>
 
 <h1></h1>
