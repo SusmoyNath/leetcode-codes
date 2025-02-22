@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611m1w5uq5iohf9fh3eq67lm90fy10w2gfca378qmll&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611m1w5uq5iohf9fh3eq67lm90fy10w2gfca378qmll&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+![](https://leetcard.jacoblin.cool/susmoynath?site=us)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/susmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susmoynath" height="30" width="40" /></a>
