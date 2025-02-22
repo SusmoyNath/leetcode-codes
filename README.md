@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0145-binary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
