@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 ## Hash Table
 |  |
 | ------- |
