@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 ## Memoization
 |  |
 | ------- |
