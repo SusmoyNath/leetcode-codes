@@ -12,9 +12,9 @@
 
 <h1></h1>
 
-<h3 align="down">Solved Problems</h3>
+<h3 align="down">Solved Problems
 
-![](https://leetcard.jacoblin.cool/susmoynath?border=0&radius=10)
+![](https://leetcard.jacoblin.cool/susmoynath?border=0&radius=10) </h3>
 
 <h1></h1>
 
