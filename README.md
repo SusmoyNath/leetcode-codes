@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0434-number-of-segments-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/SusmoyNath/leetcode-codes/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
