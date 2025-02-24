@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0027-remove-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/SusmoyNath/leetcode-codes/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/SusmoyNath/leetcode-codes/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
