@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SusmoyNath/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
