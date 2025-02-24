@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SusmoyNath/leetcode-codes/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0125-valid-palindrome) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0005-longest-palindromic-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0119-pascals-triangle-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
