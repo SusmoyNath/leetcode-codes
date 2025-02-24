@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SusmoyNath/leetcode-codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
