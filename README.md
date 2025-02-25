@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 ## Graph
 |  |
@@ -633,4 +637,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
