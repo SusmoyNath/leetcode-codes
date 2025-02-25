@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SusmoyNath/leetcode-codes/tree/master/0228-summary-ranges) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0052-n-queens-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 ## Monotonic Stack
 |  |
