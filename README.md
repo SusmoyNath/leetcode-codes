@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/SusmoyNath/leetcode-codes/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
@@ -603,4 +606,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
