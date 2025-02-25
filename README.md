@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SusmoyNath/leetcode-codes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0263-ugly-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0060-permutation-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SusmoyNath/leetcode-codes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0205-isomorphic-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0094-binary-tree-inorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
