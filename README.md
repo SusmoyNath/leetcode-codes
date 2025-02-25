@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SusmoyNath/leetcode-codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0135-candy](https://github.com/SusmoyNath/leetcode-codes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0127-word-ladder](https://github.com/SusmoyNath/leetcode-codes/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
