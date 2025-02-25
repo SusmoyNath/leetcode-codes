@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 ## Monotonic Stack
 |  |
