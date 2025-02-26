@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0273-integer-to-english-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0145-binary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SusmoyNath/leetcode-codes/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
