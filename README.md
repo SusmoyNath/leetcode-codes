@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/SusmoyNath/leetcode-codes/tree/master/0482-license-key-formatting) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 ## Graph
 |  |
