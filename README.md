@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 ## Rolling Hash
 |  |
 | ------- |
