@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0014-longest-common-prefix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
