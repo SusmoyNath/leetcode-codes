@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SusmoyNath/leetcode-codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 ## Monotonic Stack
 |  |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bucket Sort
 |  |
 | ------- |
