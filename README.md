@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0127-word-ladder](https://github.com/SusmoyNath/leetcode-codes/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
