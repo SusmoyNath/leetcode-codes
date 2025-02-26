@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SusmoyNath/leetcode-codes/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0191-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -639,11 +643,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 ## Line Sweep
 |  |
 | ------- |
@@ -654,6 +660,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 ## Bucket Sort
 |  |
 | ------- |
