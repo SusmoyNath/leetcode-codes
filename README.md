@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/SusmoyNath/leetcode-codes/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0507-perfect-number) |
@@ -762,4 +763,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
