@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Stack
 |  |
 | ------- |
