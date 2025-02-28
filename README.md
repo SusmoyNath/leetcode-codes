@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0057-insert-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0087-scramble-string) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
