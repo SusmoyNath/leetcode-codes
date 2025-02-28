@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -717,12 +721,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Line Sweep
 |  |
 | ------- |
@@ -737,6 +743,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
