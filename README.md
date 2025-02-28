@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
