@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SusmoyNath/leetcode-codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SusmoyNath/leetcode-codes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0071-simplify-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0125-valid-palindrome) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0101-symmetric-tree) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0052-n-queens-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SusmoyNath/leetcode-codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SusmoyNath/leetcode-codes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0064-minimum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
