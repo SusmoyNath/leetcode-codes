@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0045-jump-game-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SusmoyNath/leetcode-codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0036-valid-sudoku](https://github.com/SusmoyNath/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
