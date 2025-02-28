@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/SusmoyNath/leetcode-codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SusmoyNath/leetcode-codes/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0065-valid-number) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
