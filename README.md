@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 ## Tree
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
 |  |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 ## Graph
 |  |
