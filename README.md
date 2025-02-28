@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/SusmoyNath/leetcode-codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SusmoyNath/leetcode-codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0038-count-and-say](https://github.com/SusmoyNath/leetcode-codes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/SusmoyNath/leetcode-codes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/SusmoyNath/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SusmoyNath/leetcode-codes/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SusmoyNath/leetcode-codes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SusmoyNath/leetcode-codes/tree/master/0127-word-ladder) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0016-3sum-closest](https://github.com/SusmoyNath/leetcode-codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SusmoyNath/leetcode-codes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
