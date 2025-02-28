@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0044-wildcard-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0087-scramble-string) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/SusmoyNath/leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SusmoyNath/leetcode-codes/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
