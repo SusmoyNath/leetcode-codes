@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SusmoyNath/leetcode-codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SusmoyNath/leetcode-codes/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/SusmoyNath/leetcode-codes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0171-excel-sheet-column-number) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0029-divide-two-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SusmoyNath/leetcode-codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SusmoyNath/leetcode-codes/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0191-number-of-1-bits) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0077-combinations](https://github.com/SusmoyNath/leetcode-codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SusmoyNath/leetcode-codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/SusmoyNath/leetcode-codes/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
