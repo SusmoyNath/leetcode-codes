@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/SusmoyNath/leetcode-codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SusmoyNath/leetcode-codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/SusmoyNath/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SusmoyNath/leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
