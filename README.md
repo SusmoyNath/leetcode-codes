@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SusmoyNath/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SusmoyNath/leetcode-codes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SusmoyNath/leetcode-codes/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
@@ -976,4 +978,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
