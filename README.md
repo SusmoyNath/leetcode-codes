@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SusmoyNath/leetcode-codes/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SusmoyNath/leetcode-codes/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SusmoyNath/leetcode-codes/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
