@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
+| [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
+| [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
+| [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
 |  |
 | ------- |
