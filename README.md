@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0520-detect-capital](https://github.com/SusmoyNath/leetcode-codes/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0564-find-the-closest-palindrome) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
