@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0482-license-key-formatting](https://github.com/SusmoyNath/leetcode-codes/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SusmoyNath/leetcode-codes/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0564-find-the-closest-palindrome) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
