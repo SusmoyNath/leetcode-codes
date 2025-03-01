@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0517-super-washing-machines](https://github.com/SusmoyNath/leetcode-codes/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0575-distribute-candies) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
