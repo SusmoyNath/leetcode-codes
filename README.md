@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0119-pascals-triangle-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SusmoyNath/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/SusmoyNath/leetcode-codes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0136-single-number) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0119-pascals-triangle-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SusmoyNath/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0044-wildcard-matching](https://github.com/SusmoyNath/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SusmoyNath/leetcode-codes/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
