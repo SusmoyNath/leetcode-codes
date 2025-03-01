@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0552-student-attendance-record-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
