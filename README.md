@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0143-reorder-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0206-reverse-linked-list) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0191-number-of-1-bits) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/SusmoyNath/leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
@@ -934,6 +938,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
