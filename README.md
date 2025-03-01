@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0132-palindrome-partitioning-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
