@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0507-perfect-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0507-perfect-number) |
 | [0564-find-the-closest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
+| [0598-range-addition-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0598-range-addition-ii) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0575-distribute-candies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0598-range-addition-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
