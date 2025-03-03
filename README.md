@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0557-reverse-words-in-a-string-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/SusmoyNath/leetcode-codes/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
