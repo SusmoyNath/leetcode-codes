@@ -1,5 +1,4 @@
-<h2> 45 6
-3472. Longest Palindromic Subsequence After at Most K Operations</h2><hr><div><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
+<h2> 3472. Longest Palindromic Subsequence After at Most K Operations</h2><hr><div><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>In one operation, you can replace the character at any position with the next or previous letter in the alphabet (wrapping around so that <code>'a'</code> is after <code>'z'</code>). For example, replacing <code>'a'</code> with the next letter results in <code>'b'</code>, and replacing <code>'a'</code> with the previous letter results in <code>'z'</code>. Similarly, replacing <code>'z'</code> with the next letter results in <code>'a'</code>, and replacing <code>'z'</code> with the previous letter results in <code>'y'</code>.</p>
 
