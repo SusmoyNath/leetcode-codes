@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0461-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
