@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0661-image-smoother](https://github.com/SusmoyNath/leetcode-codes/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
