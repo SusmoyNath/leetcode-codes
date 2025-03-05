@@ -1,5 +1,4 @@
-<h2> 8672 884
-724. Find Pivot Index</h2><hr><div><p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
+<h2> 724. Find Pivot Index</h2><hr><div><p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
 
 <p>The <strong>pivot index</strong> is the index where the sum of all the numbers <strong>strictly</strong> to the left of the index is equal to the sum of all the numbers <strong>strictly</strong> to the index's right.</p>
 
