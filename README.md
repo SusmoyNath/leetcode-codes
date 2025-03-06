@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0629-k-inverse-pairs-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/SusmoyNath/leetcode-codes/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
