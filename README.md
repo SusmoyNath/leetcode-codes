@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0551-student-attendance-record-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/SusmoyNath/leetcode-codes/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
+| [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
