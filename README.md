@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SusmoyNath/leetcode-codes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
+| [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 ## Tree
 |  |
 | ------- |
