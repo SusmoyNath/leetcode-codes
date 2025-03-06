@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0206-reverse-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
+| [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 ## Binary Indexed Tree
 |  |
 | ------- |
