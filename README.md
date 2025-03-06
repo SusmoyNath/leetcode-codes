@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
