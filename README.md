@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
 | [0598-range-addition-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SusmoyNath/leetcode-codes/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SusmoyNath/leetcode-codes/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
