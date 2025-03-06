@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0851-goat-latin](https://github.com/SusmoyNath/leetcode-codes/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/SusmoyNath/leetcode-codes/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0889-buddy-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
