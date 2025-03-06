@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0566-reshape-the-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/SusmoyNath/leetcode-codes/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0661-image-smoother](https://github.com/SusmoyNath/leetcode-codes/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
