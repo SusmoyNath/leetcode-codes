@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 ## Rolling Hash
 |  |
 | ------- |
