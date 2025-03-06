@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0605-can-place-flowers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/SusmoyNath/leetcode-codes/tree/master/0661-image-smoother) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0575-distribute-candies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SusmoyNath/leetcode-codes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0517-super-washing-machines](https://github.com/SusmoyNath/leetcode-codes/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0890-lemonade-change) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1179,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Graph
 |  |
