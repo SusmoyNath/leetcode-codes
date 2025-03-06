@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0742-to-lower-case](https://github.com/SusmoyNath/leetcode-codes/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0812-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
