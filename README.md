@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SusmoyNath/leetcode-codes/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/SusmoyNath/leetcode-codes/tree/master/0742-to-lower-case) |
+| [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
