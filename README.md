@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
+| [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 ## Rolling Hash
 |  |
 | ------- |
