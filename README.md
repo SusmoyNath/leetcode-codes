@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
+| [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -1261,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
 ## Bucket Sort
 |  |
 | ------- |
