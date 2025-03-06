@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0824-number-of-lines-to-write-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0822-unique-morse-code-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
