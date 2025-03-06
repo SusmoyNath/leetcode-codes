@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0552-student-attendance-record-ii) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
