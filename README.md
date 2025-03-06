@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0824-number-of-lines-to-write-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/SusmoyNath/leetcode-codes/tree/master/0851-goat-latin) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
