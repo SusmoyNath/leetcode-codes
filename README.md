@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0598-range-addition-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SusmoyNath/leetcode-codes/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0661-image-smoother](https://github.com/SusmoyNath/leetcode-codes/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
+| [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
