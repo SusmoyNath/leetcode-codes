@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SusmoyNath/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SusmoyNath/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SusmoyNath/leetcode-codes/tree/master/0278-first-bad-version) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0151-reverse-words-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SusmoyNath/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0234-palindrome-linked-list) |
