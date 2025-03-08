@@ -1269,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1161-project-employees-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/1258-article-views-i) |
 ## Design
 |  |
 | ------- |
