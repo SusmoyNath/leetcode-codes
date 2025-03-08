@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/SusmoyNath/leetcode-codes/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1195-distribute-candies-to-people](https://github.com/SusmoyNath/leetcode-codes/tree/master/1195-distribute-candies-to-people) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/SusmoyNath/leetcode-codes/tree/master/1041-available-captures-for-rook) |
+| [1195-distribute-candies-to-people](https://github.com/SusmoyNath/leetcode-codes/tree/master/1195-distribute-candies-to-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
