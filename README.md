@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 ## Tree
 |  |
 | ------- |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/SusmoyNath/leetcode-codes/tree/master/1041-available-captures-for-rook) |
+| [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -1418,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0866-rectangle-overlap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
+| [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 ## Rolling Hash
 |  |
 | ------- |
