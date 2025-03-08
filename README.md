@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/SusmoyNath/leetcode-codes/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1319-unique-number-of-occurrences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
