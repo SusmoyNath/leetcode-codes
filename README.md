@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0187-repeated-dna-sequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0139-word-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SusmoyNath/leetcode-codes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SusmoyNath/leetcode-codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/SusmoyNath/leetcode-codes/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
