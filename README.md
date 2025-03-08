@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0899-binary-gap) |
+| [1054-complement-of-base-10-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
