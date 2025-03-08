@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0889-buddy-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
