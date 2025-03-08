@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0953-reverse-only-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0953-reverse-only-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0965-unique-email-addresses) |
+| [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1246,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
 |  |
