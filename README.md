@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/SusmoyNath/leetcode-codes/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/SusmoyNath/leetcode-codes/tree/master/1260-day-of-the-year) |
+| [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 ## Database
 |  |
 | ------- |
