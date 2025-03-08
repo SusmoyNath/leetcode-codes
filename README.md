@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/SusmoyNath/leetcode-codes/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/SusmoyNath/leetcode-codes/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0099-recover-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
