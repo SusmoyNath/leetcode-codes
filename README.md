@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0965-unique-email-addresses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Merge Sort
 |  |
