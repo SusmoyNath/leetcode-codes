@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0990-verifying-an-alien-dictionary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
+| [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
