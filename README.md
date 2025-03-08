@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/SusmoyNath/leetcode-codes/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1044-find-common-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0920-uncommon-words-from-two-sentences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SusmoyNath/leetcode-codes/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Database
 |  |
 | ------- |
