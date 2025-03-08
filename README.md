@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1279-prime-arrangements](https://github.com/SusmoyNath/leetcode-codes/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/SusmoyNath/leetcode-codes/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1306-minimum-absolute-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1477,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/SusmoyNath/leetcode-codes/tree/master/1115-valid-boomerang) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Rolling Hash
 |  |
 | ------- |
