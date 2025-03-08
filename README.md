@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0981-delete-columns-to-make-sorted](https://github.com/SusmoyNath/leetcode-codes/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
