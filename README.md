@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SusmoyNath/leetcode-codes/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0908-middle-of-the-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SusmoyNath/leetcode-codes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
 ## Tree
 |  |
 | ------- |
