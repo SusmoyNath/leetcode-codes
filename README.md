@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1195-distribute-candies-to-people](https://github.com/SusmoyNath/leetcode-codes/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/SusmoyNath/leetcode-codes/tree/master/1260-day-of-the-year) |
+| [1279-prime-arrangements](https://github.com/SusmoyNath/leetcode-codes/tree/master/1279-prime-arrangements) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
