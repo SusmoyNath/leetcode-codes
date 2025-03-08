@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0172-factorial-trailing-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SusmoyNath/leetcode-codes/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SusmoyNath/leetcode-codes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SusmoyNath/leetcode-codes/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 ## Interactive
@@ -1366,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 ## Union Find
 |  |
