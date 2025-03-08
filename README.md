@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/SusmoyNath/leetcode-codes/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
+| [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 ## Tree
 |  |
 | ------- |
@@ -1541,4 +1543,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
