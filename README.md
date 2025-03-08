@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1044-find-common-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
