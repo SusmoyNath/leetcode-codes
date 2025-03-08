@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0944-smallest-range-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SusmoyNath/leetcode-codes/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0981-delete-columns-to-make-sorted](https://github.com/SusmoyNath/leetcode-codes/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/SusmoyNath/leetcode-codes/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
 |  |
