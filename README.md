@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Trie
@@ -1311,10 +1313,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
