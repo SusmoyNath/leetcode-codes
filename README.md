@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1115-valid-boomerang](https://github.com/SusmoyNath/leetcode-codes/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/SusmoyNath/leetcode-codes/tree/master/1168-duplicate-zeros) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0961-long-pressed-name](https://github.com/SusmoyNath/leetcode-codes/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/SusmoyNath/leetcode-codes/tree/master/1168-duplicate-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
