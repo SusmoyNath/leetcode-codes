@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0904-leaf-similar-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -1106,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1005-univalued-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
