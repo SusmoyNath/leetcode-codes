@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/SusmoyNath/leetcode-codes/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
+| [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 ## Tree
 |  |
 | ------- |
@@ -1558,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 ## Concurrency
 |  |
 | ------- |
