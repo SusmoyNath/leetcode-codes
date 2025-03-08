@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1044-find-common-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
