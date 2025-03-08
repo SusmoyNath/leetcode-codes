@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SusmoyNath/leetcode-codes/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
