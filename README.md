@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SusmoyNath/leetcode-codes/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
