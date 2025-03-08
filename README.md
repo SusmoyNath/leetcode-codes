@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/SusmoyNath/leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0174-dungeon-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SusmoyNath/leetcode-codes/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
