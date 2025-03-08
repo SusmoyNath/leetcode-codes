@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/SusmoyNath/leetcode-codes/tree/master/1115-valid-boomerang) |
+| [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
 ## Graph
 |  |
 | ------- |
