@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1289-day-of-the-week](https://github.com/SusmoyNath/leetcode-codes/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1319-unique-number-of-occurrences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SusmoyNath/leetcode-codes/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0898-transpose-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/SusmoyNath/leetcode-codes/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/SusmoyNath/leetcode-codes/tree/master/1195-distribute-candies-to-people) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
