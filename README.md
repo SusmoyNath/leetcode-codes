@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0213-house-robber-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
@@ -1532,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
