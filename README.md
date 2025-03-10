@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1054-complement-of-base-10-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Tree
@@ -1307,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
