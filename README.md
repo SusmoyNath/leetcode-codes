@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SusmoyNath/leetcode-codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-distance-between-bus-stops](https://github.com/SusmoyNath/leetcode-codes/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1319-unique-number-of-occurrences) |
