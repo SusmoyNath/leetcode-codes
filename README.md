@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
@@ -1480,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
