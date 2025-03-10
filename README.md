@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1505-create-target-array-in-the-given-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1524-string-matching-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SusmoyNath/leetcode-codes/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1524-string-matching-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
