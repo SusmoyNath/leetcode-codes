@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
