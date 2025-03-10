@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
@@ -1419,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
@@ -1496,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0209-minimum-size-subarray-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1521,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0221-maximal-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
