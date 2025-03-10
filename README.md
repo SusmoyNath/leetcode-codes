@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SusmoyNath/leetcode-codes/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
