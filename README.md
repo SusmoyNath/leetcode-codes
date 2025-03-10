@@ -820,6 +820,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0316-remove-duplicate-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
@@ -1454,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/SusmoyNath/leetcode-codes/tree/master/0969-number-of-recent-calls) |
 ## Greedy
@@ -1758,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 ## Quickselect
 |  |
 | ------- |
