@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0307-range-sum-query-mutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SusmoyNath/leetcode-codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0300-longest-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SusmoyNath/leetcode-codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
