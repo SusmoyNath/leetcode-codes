@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SusmoyNath/leetcode-codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
