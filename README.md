@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0345-reverse-vowels-of-a-string) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0260-single-number-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
