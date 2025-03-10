@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0240-search-a-2d-matrix-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SusmoyNath/leetcode-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1696,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
