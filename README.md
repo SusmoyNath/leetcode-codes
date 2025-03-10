@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/SusmoyNath/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0344-reverse-string) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/SusmoyNath/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1346,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/SusmoyNath/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
