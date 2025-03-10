@@ -1164,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0133-clone-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/SusmoyNath/leetcode-codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
@@ -1680,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0207-course-schedule](https://github.com/SusmoyNath/leetcode-codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Eulerian Circuit
 |  |
