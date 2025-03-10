@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1494,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
