@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SusmoyNath/leetcode-codes/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SusmoyNath/leetcode-codes/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
