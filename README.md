@@ -1326,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1338-queries-quality-and-percentage](https://github.com/SusmoyNath/leetcode-codes/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/SusmoyNath/leetcode-codes/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/SusmoyNath/leetcode-codes/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/SusmoyNath/leetcode-codes/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Design
 |  |
 | ------- |
