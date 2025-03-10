@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1448-maximum-69-number) |
+| [1500-count-largest-group](https://github.com/SusmoyNath/leetcode-codes/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/SusmoyNath/leetcode-codes/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
