@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -1331,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1341-split-a-string-in-balanced-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Database
 |  |
 | ------- |
