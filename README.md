@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0274-h-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/SusmoyNath/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
@@ -1696,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
 ## Quickselect
 |  |
 | ------- |
