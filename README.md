@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1168-duplicate-zeros](https://github.com/SusmoyNath/leetcode-codes/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
