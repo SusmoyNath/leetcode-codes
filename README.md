@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1195-distribute-candies-to-people](https://github.com/SusmoyNath/leetcode-codes/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/SusmoyNath/leetcode-codes/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/SusmoyNath/leetcode-codes/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/SusmoyNath/leetcode-codes/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/SusmoyNath/leetcode-codes/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SusmoyNath/leetcode-codes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/SusmoyNath/leetcode-codes/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/SusmoyNath/leetcode-codes/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/SusmoyNath/leetcode-codes/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SusmoyNath/leetcode-codes/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
