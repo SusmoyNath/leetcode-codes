@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0899-binary-gap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/SusmoyNath/leetcode-codes/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
