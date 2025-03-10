@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0221-maximal-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/SusmoyNath/leetcode-codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
