@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SusmoyNath/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0924-fair-candy-swap) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1217-relative-sort-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/1306-minimum-absolute-difference) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -1462,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -1489,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/SusmoyNath/leetcode-codes/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Graph
 |  |
 | ------- |
