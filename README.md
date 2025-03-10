@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0284-peeking-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SusmoyNath/leetcode-codes/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0275-h-index-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/SusmoyNath/leetcode-codes/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0233-number-of-digit-one](https://github.com/SusmoyNath/leetcode-codes/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
