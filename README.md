@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0338-counting-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
@@ -1384,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0282-expression-add-operators](https://github.com/SusmoyNath/leetcode-codes/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
