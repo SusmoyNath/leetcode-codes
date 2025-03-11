@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0334-increasing-triplet-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0290-word-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/SusmoyNath/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0274-h-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0354-russian-doll-envelopes) |
@@ -1393,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/SusmoyNath/leetcode-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/SusmoyNath/leetcode-codes/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
@@ -1611,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
@@ -1708,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0164-maximum-gap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1774,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
