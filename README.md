@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0237-delete-node-in-a-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SusmoyNath/leetcode-codes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -1781,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SusmoyNath/leetcode-codes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1834,4 +1837,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1203-print-in-order) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
