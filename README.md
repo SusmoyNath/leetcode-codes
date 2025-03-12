@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3483-alternating-groups-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1746,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
+| [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1762,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
+| [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
 ## Bucket Sort
 |  |
 | ------- |
