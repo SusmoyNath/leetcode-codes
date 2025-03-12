@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
