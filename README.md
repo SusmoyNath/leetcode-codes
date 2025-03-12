@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0372-super-pow) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0324-wiggle-sort-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
