@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0211-design-add-and-search-words-data-structure](https://github.com/SusmoyNath/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 ## Stack
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/SusmoyNath/leetcode-codes/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
