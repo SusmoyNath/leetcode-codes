@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0747-min-cost-climbing-stairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SusmoyNath/leetcode-codes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
+| [0772-construct-quad-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/SusmoyNath/leetcode-codes/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0372-super-pow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
+| [0772-construct-quad-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0637-average-of-levels-in-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0772-construct-quad-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1698,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0661-image-smoother](https://github.com/SusmoyNath/leetcode-codes/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
+| [0772-construct-quad-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0898-transpose-matrix) |
