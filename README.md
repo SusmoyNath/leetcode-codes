@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0377-combination-sum-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/SusmoyNath/leetcode-codes/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0371-sum-of-two-integers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0461-hamming-distance) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0139-word-break](https://github.com/SusmoyNath/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0330-patching-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
