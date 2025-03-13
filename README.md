@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0391-perfect-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/SusmoyNath/leetcode-codes/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0385-mini-parser](https://github.com/SusmoyNath/leetcode-codes/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/SusmoyNath/leetcode-codes/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/SusmoyNath/leetcode-codes/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
@@ -1720,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SusmoyNath/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1852,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SusmoyNath/leetcode-codes/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 ## Bitmask
 |  |
@@ -1889,4 +1895,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
