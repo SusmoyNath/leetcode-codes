@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0396-rotate-function](https://github.com/SusmoyNath/leetcode-codes/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0368-largest-divisible-subset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0307-range-sum-query-mutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
@@ -1785,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0307-range-sum-query-mutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SusmoyNath/leetcode-codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
