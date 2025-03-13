@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/SusmoyNath/leetcode-codes/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0468-validate-ip-address](https://github.com/SusmoyNath/leetcode-codes/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/SusmoyNath/leetcode-codes/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SusmoyNath/leetcode-codes/tree/master/0520-detect-capital) |
