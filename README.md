@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
@@ -1606,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
