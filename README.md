@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0492-construct-the-rectangle) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0140-word-break-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
@@ -1714,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 ## Prefix Sum
 |  |
@@ -1963,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 ## Radix Sort
 |  |
