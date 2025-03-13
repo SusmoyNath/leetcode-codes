@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0434-number-of-segments-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SusmoyNath/leetcode-codes/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0417-pacific-atlantic-water-flow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/SusmoyNath/leetcode-codes/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1394,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0337-house-robber-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/SusmoyNath/leetcode-codes/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
@@ -1449,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0617-merge-two-binary-trees) |
@@ -1476,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0173-binary-search-tree-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1605,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0380-insert-delete-getrandom-o1](https://github.com/SusmoyNath/leetcode-codes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0384-shuffle-an-array) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
