@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0423-reconstruct-original-digits-from-english](https://github.com/SusmoyNath/leetcode-codes/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0433-minimum-genetic-mutation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
