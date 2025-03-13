@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0385-mini-parser](https://github.com/SusmoyNath/leetcode-codes/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0334-increasing-triplet-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
@@ -1692,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0085-maximal-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
