@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
