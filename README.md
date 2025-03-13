@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/SusmoyNath/leetcode-codes/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0944-smallest-range-i) |
@@ -1864,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0587-erect-the-fence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/SusmoyNath/leetcode-codes/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0866-rectangle-overlap) |
+| [0915-generate-random-point-in-a-circle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1094-matrix-cells-in-distance-order) |
@@ -1959,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0384-shuffle-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/SusmoyNath/leetcode-codes/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0915-generate-random-point-in-a-circle) |
 ## Combinatorics
 |  |
 | ------- |
@@ -2030,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/SusmoyNath/leetcode-codes/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
