@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0467-unique-substrings-in-wraparound-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/SusmoyNath/leetcode-codes/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/SusmoyNath/leetcode-codes/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SusmoyNath/leetcode-codes/tree/master/0520-detect-capital) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0467-unique-substrings-in-wraparound-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0600-non-negative-integers-without-consecutive-ones) |
