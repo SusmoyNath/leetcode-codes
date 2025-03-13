@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SusmoyNath/leetcode-codes/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0443-string-compression](https://github.com/SusmoyNath/leetcode-codes/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/SusmoyNath/leetcode-codes/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
