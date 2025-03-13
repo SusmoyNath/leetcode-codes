@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SusmoyNath/leetcode-codes/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0273-integer-to-english-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
