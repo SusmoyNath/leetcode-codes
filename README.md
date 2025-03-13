@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0328-odd-even-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/SusmoyNath/leetcode-codes/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0445-add-two-numbers-ii) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0388-longest-absolute-file-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
