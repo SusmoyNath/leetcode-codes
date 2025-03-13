@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0355-design-twitter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/SusmoyNath/leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1883,6 +1885,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0146-lru-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SusmoyNath/leetcode-codes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Enumeration
 |  |
 | ------- |
