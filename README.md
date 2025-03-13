@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0390-elimination-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/SusmoyNath/leetcode-codes/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/SusmoyNath/leetcode-codes/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/SusmoyNath/leetcode-codes/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SusmoyNath/leetcode-codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/SusmoyNath/leetcode-codes/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
