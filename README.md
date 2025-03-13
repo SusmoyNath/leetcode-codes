@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SusmoyNath/leetcode-codes/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
