@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/SusmoyNath/leetcode-codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
