@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0419-battleships-in-a-board](https://github.com/SusmoyNath/leetcode-codes/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/SusmoyNath/leetcode-codes/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
