@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0492-construct-the-rectangle) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0693-binary-number-with-alternating-bits) |
