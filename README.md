@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0397-integer-replacement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/SusmoyNath/leetcode-codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0220-contains-duplicate-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
