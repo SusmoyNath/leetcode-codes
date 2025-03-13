@@ -1236,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0637-average-of-levels-in-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0772-construct-quad-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0675-cut-off-trees-for-golf-event](https://github.com/SusmoyNath/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/SusmoyNath/leetcode-codes/tree/master/0733-flood-fill) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/SusmoyNath/leetcode-codes/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1005-univalued-binary-tree) |
