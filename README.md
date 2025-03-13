@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0326-power-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0388-longest-absolute-file-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SusmoyNath/leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0415-add-strings) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0341-flatten-nested-list-iterator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/SusmoyNath/leetcode-codes/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/SusmoyNath/leetcode-codes/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
