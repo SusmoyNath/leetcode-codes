@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/SusmoyNath/leetcode-codes/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SusmoyNath/leetcode-codes/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SusmoyNath/leetcode-codes/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/SusmoyNath/leetcode-codes/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0682-baseball-game) |
@@ -1775,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0316-remove-duplicate-letters](https://github.com/SusmoyNath/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -1885,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0327-count-of-range-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/SusmoyNath/leetcode-codes/tree/master/0699-falling-squares) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
