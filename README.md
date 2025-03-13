@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0417-pacific-atlantic-water-flow](https://github.com/SusmoyNath/leetcode-codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/SusmoyNath/leetcode-codes/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SusmoyNath/leetcode-codes/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/SusmoyNath/leetcode-codes/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/SusmoyNath/leetcode-codes/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
@@ -1620,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/SusmoyNath/leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SusmoyNath/leetcode-codes/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/SusmoyNath/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/SusmoyNath/leetcode-codes/tree/master/0517-super-washing-machines) |
