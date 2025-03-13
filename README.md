@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0447-number-of-boomerangs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SusmoyNath/leetcode-codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0492-construct-the-rectangle) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/SusmoyNath/leetcode-codes/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0451-sort-characters-by-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/SusmoyNath/leetcode-codes/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SusmoyNath/leetcode-codes/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/0594-longest-harmonious-subsequence) |
