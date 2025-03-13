@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/SusmoyNath/leetcode-codes/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0466-count-the-repetitions](https://github.com/SusmoyNath/leetcode-codes/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
@@ -1549,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0306-additive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
@@ -1974,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 ## Radix Sort
 |  |
