@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/SusmoyNath/leetcode-codes/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/SusmoyNath/leetcode-codes/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/0507-perfect-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/SusmoyNath/leetcode-codes/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0472-concatenated-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -1740,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0292-nim-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SusmoyNath/leetcode-codes/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 ## Prefix Sum
 |  |
