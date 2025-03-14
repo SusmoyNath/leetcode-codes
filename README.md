@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1784,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
