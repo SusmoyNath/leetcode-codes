@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/SusmoyNath/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1468-check-if-n-and-its-double-exist](https://github.com/SusmoyNath/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
