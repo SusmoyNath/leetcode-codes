@@ -1688,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1541-top-travellers](https://github.com/SusmoyNath/leetcode-codes/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/SusmoyNath/leetcode-codes/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/SusmoyNath/leetcode-codes/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/SusmoyNath/leetcode-codes/tree/master/1670-patients-with-a-condition) |
 ## Design
 |  |
 | ------- |
