@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SusmoyNath/leetcode-codes/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Tree
 |  |
 | ------- |
