@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1448-maximum-69-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/SusmoyNath/leetcode-codes/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1610-xor-operation-in-an-array) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
