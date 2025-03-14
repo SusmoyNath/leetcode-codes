@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SusmoyNath/leetcode-codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/SusmoyNath/leetcode-codes/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0933-increasing-order-search-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
@@ -1844,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0402-remove-k-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
