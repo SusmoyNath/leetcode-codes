@@ -1234,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1505-create-target-array-in-the-given-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/SusmoyNath/leetcode-codes/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
@@ -1667,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1472-increasing-decreasing-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
@@ -1741,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/SusmoyNath/leetcode-codes/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
