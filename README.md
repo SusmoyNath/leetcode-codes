@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/SusmoyNath/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -2041,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0204-count-primes](https://github.com/SusmoyNath/leetcode-codes/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
+| [1656-count-good-triplets](https://github.com/SusmoyNath/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
