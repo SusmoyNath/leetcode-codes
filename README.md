@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1205-defanging-an-ip-address](https://github.com/SusmoyNath/leetcode-codes/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/SusmoyNath/leetcode-codes/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/SusmoyNath/leetcode-codes/tree/master/1274-number-of-days-between-two-dates) |
+| [1283-reformat-date](https://github.com/SusmoyNath/leetcode-codes/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/SusmoyNath/leetcode-codes/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SusmoyNath/leetcode-codes/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
