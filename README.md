@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SusmoyNath/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1677-matrix-diagonal-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1677-matrix-diagonal-sum) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/SusmoyNath/leetcode-codes/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SusmoyNath/leetcode-codes/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1825,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
