@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1646-kth-missing-positive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/SusmoyNath/leetcode-codes/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1677-matrix-diagonal-sum) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/SusmoyNath/leetcode-codes/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SusmoyNath/leetcode-codes/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1869,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
