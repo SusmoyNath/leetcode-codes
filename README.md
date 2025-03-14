@@ -1668,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1462-list-the-products-ordered-in-a-period](https://github.com/SusmoyNath/leetcode-codes/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SusmoyNath/leetcode-codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/SusmoyNath/leetcode-codes/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/SusmoyNath/leetcode-codes/tree/master/1625-group-sold-products-by-the-date) |
 ## Design
 |  |
 | ------- |
