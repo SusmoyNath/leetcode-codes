@@ -1723,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1670-patients-with-a-condition](https://github.com/SusmoyNath/leetcode-codes/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SusmoyNath/leetcode-codes/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/1734-bank-account-summary-ii) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/SusmoyNath/leetcode-codes/tree/master/1773-percentage-of-users-attended-a-contest) |
 ## Design
 |  |
 | ------- |
