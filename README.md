@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SusmoyNath/leetcode-codes/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1666-make-the-string-great](https://github.com/SusmoyNath/leetcode-codes/tree/master/1666-make-the-string-great) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/1714-rearrange-spaces-between-words) |
+| [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/SusmoyNath/leetcode-codes/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
