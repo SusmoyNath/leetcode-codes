@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SusmoyNath/leetcode-codes/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/SusmoyNath/leetcode-codes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0457-circular-array-loop](https://github.com/SusmoyNath/leetcode-codes/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/SusmoyNath/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/SusmoyNath/leetcode-codes/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SusmoyNath/leetcode-codes/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SusmoyNath/leetcode-codes/tree/master/0575-distribute-candies) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/SusmoyNath/leetcode-codes/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/SusmoyNath/leetcode-codes/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0693-binary-number-with-alternating-bits) |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0357-count-numbers-with-unique-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/SusmoyNath/leetcode-codes/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/SusmoyNath/leetcode-codes/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/SusmoyNath/leetcode-codes/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
