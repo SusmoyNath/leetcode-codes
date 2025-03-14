@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1761,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0304-range-sum-query-2d-immutable](https://github.com/SusmoyNath/leetcode-codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SusmoyNath/leetcode-codes/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
