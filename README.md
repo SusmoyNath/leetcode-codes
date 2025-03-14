@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1714-rearrange-spaces-between-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
