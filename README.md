@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/SusmoyNath/leetcode-codes/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1330,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SusmoyNath/leetcode-codes/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
