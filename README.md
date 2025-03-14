@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1720-crawler-log-folder](https://github.com/SusmoyNath/leetcode-codes/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Tree
 |  |
 | ------- |
