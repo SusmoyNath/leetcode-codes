@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1610-xor-operation-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SusmoyNath/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1386-shift-2d-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
