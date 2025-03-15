@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1755-defuse-the-bomb](https://github.com/SusmoyNath/leetcode-codes/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [1769-get-maximum-in-generated-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1769-get-maximum-in-generated-array) |
+| [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
+| [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -1767,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0969-number-of-recent-calls](https://github.com/SusmoyNath/leetcode-codes/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
+| [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -2054,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0295-find-median-from-data-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/SusmoyNath/leetcode-codes/tree/master/0969-number-of-recent-calls) |
+| [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 ## Topological Sort
 |  |
 | ------- |
