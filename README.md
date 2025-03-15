@@ -867,6 +867,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
+| [1764-maximum-repeating-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1086-divisor-game](https://github.com/SusmoyNath/leetcode-codes/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 ## Trie
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0812-rotate-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/1764-maximum-repeating-substring) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Hash Table
 |  |
