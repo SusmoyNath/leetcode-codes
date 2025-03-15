@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
+| [1755-defuse-the-bomb](https://github.com/SusmoyNath/leetcode-codes/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [1769-get-maximum-in-generated-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1769-get-maximum-in-generated-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1174,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/SusmoyNath/leetcode-codes/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
