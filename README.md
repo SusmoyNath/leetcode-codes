@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
+| [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
