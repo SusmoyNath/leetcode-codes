@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [1769-get-maximum-in-generated-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1769-get-maximum-in-generated-array) |
 | [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
