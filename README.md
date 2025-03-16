@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/SusmoyNath/leetcode-codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1646-kth-missing-positive-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/SusmoyNath/leetcode-codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3791-fruits-into-baskets-iii) |
