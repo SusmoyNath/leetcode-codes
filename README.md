@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SusmoyNath/leetcode-codes/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1806-count-of-matches-in-tournament](https://github.com/SusmoyNath/leetcode-codes/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SusmoyNath/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/SusmoyNath/leetcode-codes/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
 | [1769-get-maximum-in-generated-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1769-get-maximum-in-generated-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/SusmoyNath/leetcode-codes/tree/master/1806-count-of-matches-in-tournament) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/2551-apply-operations-to-an-array) |
 ## Memoization
