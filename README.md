@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1769-get-maximum-in-generated-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1769-get-maximum-in-generated-array) |
 | [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/SusmoyNath/leetcode-codes/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1751-slowest-key](https://github.com/SusmoyNath/leetcode-codes/tree/master/1751-slowest-key) |
 | [1764-maximum-repeating-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1797-goal-parser-interpretation) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SusmoyNath/leetcode-codes/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1760-check-array-formation-through-concatenation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1760-check-array-formation-through-concatenation) |
 | [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1238,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SusmoyNath/leetcode-codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -1705,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1510-find-lucky-integer-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/SusmoyNath/leetcode-codes/tree/master/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
