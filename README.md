@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SusmoyNath/leetcode-codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SusmoyNath/leetcode-codes/tree/master/1797-goal-parser-interpretation) |
+| [1812-reformat-phone-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1812-reformat-phone-number) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
