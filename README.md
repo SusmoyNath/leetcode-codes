@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1791-richest-customer-wealth](https://github.com/SusmoyNath/leetcode-codes/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SusmoyNath/leetcode-codes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1368,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SusmoyNath/leetcode-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SusmoyNath/leetcode-codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SusmoyNath/leetcode-codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 ## Tree
 |  |
 | ------- |
@@ -1850,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1341-split-a-string-in-balanced-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Number Theory
