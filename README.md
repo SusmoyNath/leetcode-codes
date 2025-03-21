@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/2478-longest-nice-subarray) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1812-reformat-phone-number](https://github.com/SusmoyNath/leetcode-codes/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SusmoyNath/leetcode-codes/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SusmoyNath/leetcode-codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1775-design-an-ordered-stream](https://github.com/SusmoyNath/leetcode-codes/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -2008,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Merge Sort
@@ -2111,6 +2115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0210-course-schedule-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SusmoyNath/leetcode-codes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Eulerian Circuit
 |  |
 | ------- |
