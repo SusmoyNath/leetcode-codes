@@ -1529,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/SusmoyNath/leetcode-codes/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1644,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/SusmoyNath/leetcode-codes/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -2013,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1039-find-the-town-judge](https://github.com/SusmoyNath/leetcode-codes/tree/master/1039-find-the-town-judge) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SusmoyNath/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/SusmoyNath/leetcode-codes/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Merge Sort
 |  |
@@ -2157,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SusmoyNath/leetcode-codes/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/SusmoyNath/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/SusmoyNath/leetcode-codes/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bitmask
 |  |
