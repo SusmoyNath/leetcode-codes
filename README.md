@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SusmoyNath/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2690-house-robber-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SusmoyNath/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/SusmoyNath/leetcode-codes/tree/master/3430-count-days-without-meetings) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SusmoyNath/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SusmoyNath/leetcode-codes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## String Matching
 |  |
 | ------- |
@@ -1393,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SusmoyNath/leetcode-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SusmoyNath/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/SusmoyNath/leetcode-codes/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
@@ -1882,6 +1886,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Number Theory
 |  |
@@ -1890,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0258-add-digits](https://github.com/SusmoyNath/leetcode-codes/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SusmoyNath/leetcode-codes/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Interactive
 |  |
 | ------- |
@@ -1992,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0456-132-pattern](https://github.com/SusmoyNath/leetcode-codes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SusmoyNath/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SusmoyNath/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
