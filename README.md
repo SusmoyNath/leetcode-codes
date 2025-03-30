@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/SusmoyNath/leetcode-codes/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/SusmoyNath/leetcode-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/SusmoyNath/leetcode-codes/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SusmoyNath/leetcode-codes/tree/master/0874-backspace-string-compare) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0696-count-binary-substrings](https://github.com/SusmoyNath/leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/SusmoyNath/leetcode-codes/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/SusmoyNath/leetcode-codes/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/SusmoyNath/leetcode-codes/tree/master/0822-unique-morse-code-words) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SusmoyNath/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0691-stickers-to-spell-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0749-shortest-completing-word](https://github.com/SusmoyNath/leetcode-codes/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/SusmoyNath/leetcode-codes/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/SusmoyNath/leetcode-codes/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/SusmoyNath/leetcode-codes/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SusmoyNath/leetcode-codes/tree/master/0817-design-hashmap) |
@@ -1875,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0630-course-schedule-iii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SusmoyNath/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/SusmoyNath/leetcode-codes/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/SusmoyNath/leetcode-codes/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/SusmoyNath/leetcode-codes/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/SusmoyNath/leetcode-codes/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/SusmoyNath/leetcode-codes/tree/master/1018-largest-perimeter-triangle) |
