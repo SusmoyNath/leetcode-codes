@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SusmoyNath/leetcode-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SusmoyNath/leetcode-codes/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/SusmoyNath/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/SusmoyNath/leetcode-codes/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SusmoyNath/leetcode-codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SusmoyNath/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1398,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SusmoyNath/leetcode-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/SusmoyNath/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SusmoyNath/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/SusmoyNath/leetcode-codes/tree/master/3430-count-days-without-meetings) |
@@ -1890,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SusmoyNath/leetcode-codes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/SusmoyNath/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SusmoyNath/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Number Theory
@@ -2030,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SusmoyNath/leetcode-codes/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SusmoyNath/leetcode-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/SusmoyNath/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 ## Graph
 |  |
 | ------- |
