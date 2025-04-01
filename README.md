@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/SusmoyNath/leetcode-codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SusmoyNath/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/2478-longest-nice-subarray) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SusmoyNath/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/SusmoyNath/leetcode-codes/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/SusmoyNath/leetcode-codes/tree/master/2262-solving-questions-with-brainpower) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/SusmoyNath/leetcode-codes/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 ## Trie
 |  |
