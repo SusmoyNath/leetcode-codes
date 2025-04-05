@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SusmoyNath/leetcode-codes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/SusmoyNath/leetcode-codes/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SusmoyNath/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SusmoyNath/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SusmoyNath/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/SusmoyNath/leetcode-codes/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SusmoyNath/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SusmoyNath/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SusmoyNath/leetcode-codes/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/SusmoyNath/leetcode-codes/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SusmoyNath/leetcode-codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SusmoyNath/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SusmoyNath/leetcode-codes/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SusmoyNath/leetcode-codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1736,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1160-letter-tile-possibilities](https://github.com/SusmoyNath/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SusmoyNath/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SusmoyNath/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SusmoyNath/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SusmoyNath/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -2180,6 +2184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0062-unique-paths](https://github.com/SusmoyNath/leetcode-codes/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/SusmoyNath/leetcode-codes/tree/master/0458-poor-pigs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2193,6 +2198,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0479-largest-palindrome-product](https://github.com/SusmoyNath/leetcode-codes/tree/master/0479-largest-palindrome-product) |
 | [1656-count-good-triplets](https://github.com/SusmoyNath/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SusmoyNath/leetcode-codes/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SusmoyNath/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SusmoyNath/leetcode-codes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
